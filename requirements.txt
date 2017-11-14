@@ -1,0 +1,10 @@
+numpy==1.13.1
+requests==2.14.2
+Flask==0.12.2
+simplejson==3.11.1
+celery==4.1.0
+selectivesearch==0.4
+Keras==2.0.6
+Pillow==4.3.0
+psycopg2==2.7.3.2
+scikit_learn==0.19.1
